@@ -13,7 +13,7 @@ This project demonstrates a real-time data pipeline for cryptocurrency market an
     * Calculates and visualizes market dominance, price volatility, trading activity, and gainers/losers.
     * Interactive dashboards with bubble charts, conditional formatting, and filters for insightful analysis.
 
-**Skills Demonstrated:**
+**Utilized:**
 
 * Golang (API integration, data processing, file handling)
 * Power BI (data modeling, DAX, visualization)
